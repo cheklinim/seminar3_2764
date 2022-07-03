@@ -168,6 +168,14 @@ origin	https://github.com/schacon/ticgit (push)
 pb	https://github.com/paulboone/ticgit (fetch)
 pb	https://github.com/paulboone/ticgit (push)
 
+Отправка изменений
+Когда вы хотите поделиться своими наработками, вам необходимо отправить их в удалённый репозиторий. Команда для этого действия простая: git push <remote-name> <branch-name>. Чтобы отправить вашу ветку master на сервер origin (повторимся, что клонирование обычно настраивает оба этих имени автоматически), вы можете выполнить следующую команду для отправки ваших коммитов:
+
+$ git push origin master
+
+
+
+
 
 
 
