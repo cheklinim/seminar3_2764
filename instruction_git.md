@@ -185,3 +185,4 @@ git push origin origin/develop:master
 Добавляет ветку test в удаленный репозиторий origin, указывающую на коммит ветки develop:
 
 git push origin origin/develop:refs/heads/test
+*The end*
