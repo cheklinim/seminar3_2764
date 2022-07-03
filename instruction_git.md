@@ -190,7 +190,12 @@ $ git remote show origin
   Local ref configured for 'git push':
     master pushes to master (up to date)
 
+    Удаление и переименование удалённых репозиториев
+
+    Для переименования удалённого репозитория можно выполнить git remote rename
     
+
+
 
 
 
