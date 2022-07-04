@@ -119,3 +119,8 @@ VSСode дает возможность выбрать какое изменен
 
 Удаленный репоиторий это облачное хранилище ваших файлов.
 
+## Для работы в Гитхаб (мои изменения)
+Регистрируемся на сайте и далее вводим команды:
+-   git remote add origin https://github.com/Dyachkov-Anton/homework3.git
+-   git branch -M master
+-   git push -u origin master
